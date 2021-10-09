@@ -1,0 +1,6 @@
+[default]
+SQLALCHEMY_DATABASE_URI = 'postgresql://rita:Rit@270063#@localhost/dbsidprof'
+TITLE = 'SidProf'
+SECRET_KEY = 'costaritacardoso'
+SQLALCHEMY_TRACK_MODIFICATIONS=true
+DEBUG=true
